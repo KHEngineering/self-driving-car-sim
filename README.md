@@ -1,6 +1,5 @@
 ## Welcome to Udacity's Self-Driving Car Simulator 
 
-This simulator was built for [Udacity's Self-Driving Car Nanodegree](https://udacity.com/drive), to teach students how to train cars how to navigate road courses using deep learning. See more [project details here](https://github.com/udacity/CarND-Behavioral-Cloning-P3).
 
 All the assets in this repository require Unity. Please follow the instructions below for the full setup.
 
